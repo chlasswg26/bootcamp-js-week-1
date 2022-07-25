@@ -1,0 +1,8 @@
+{
+  "name": "bootcamp-js-week-1",
+  "version": "1.0.0",
+  "description": "Format penyelesaian tugas javascript minggu pertama (algoritma & flowchart)",
+  "main": "index.js",
+  "author": "Ichlas Wardy Gustama",
+  "license": "MIT"
+}
